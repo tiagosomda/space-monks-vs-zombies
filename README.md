@@ -6,6 +6,8 @@
 This was a game created for the Game Makers Tool Kit Jam 2021.  
 - https://www.gmtkgamejam.com/
 
+### jammed together by
+- Tiago and Rob
 
 ### final result
 we did it! 
